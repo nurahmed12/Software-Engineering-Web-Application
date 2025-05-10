@@ -1,0 +1,19 @@
+body{
+	background: white;
+}
+
+.cv-container{
+	max-width: 700px;
+	padding: 50px;
+	margin: 30px auto;
+	background: white;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	object-fit:cover;
+}

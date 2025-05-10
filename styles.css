@@ -1,0 +1,34 @@
+body{
+	backgound-color:white;
+	font-family:cursive;
+	font-size:120%;
+}
+
+h1{
+	color:white;
+	border:2px dotted darkblue;
+}
+
+p{
+	color:white;
+	padding:30px;
+	margin:20px;
+}
+
+a:link, a:active{
+	color:green;
+	background-color:transparent;
+	text-decoration:none;
+	padding:20px 20px;
+	display:inline-block;
+}
+
+a:visited{
+	color:purple;
+}
+
+a:hover{
+	color:white;
+	background-color:transparent;
+	text-decoration:underline;
+}

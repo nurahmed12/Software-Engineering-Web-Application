@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.banner {
+    background: url('https://img.freepik.com/free-photo/shopping-concept-close-up-portrait-young-beautiful-attractive-redhair-girl-smiling-looking-camera_1258-126800.jpg?t=st=1742018469~exp=1742022069~hmac=4c5b5cc744fa119afe3908ad1c14bc967df30256a69173d09204808dc8332de9&w=1380') no-repeat center center/cover;
+    color: black;
+    padding: 40px;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.product-card img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}

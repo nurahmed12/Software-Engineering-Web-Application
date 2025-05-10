@@ -1,0 +1,32 @@
+
+table{
+	width: 80%;
+	margin: 20px auto;
+	border-collapse: collapse;
+	bakcground-color:#4caf501f;
+}
+
+th{
+	bakcground-color: rgb(23, 55, 1);
+	color: black;
+	text-align: left;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+td{
+	padding: 20px;
+	border: 1px solid black;
+	text-align: left;
+}
+
+h2{
+	text-align: center;
+	font-size: thick;
+	margin-bottom: 10px;
+}
+
+tr:hover{
+	background-color: skyblue;
+	color: white;
+}
