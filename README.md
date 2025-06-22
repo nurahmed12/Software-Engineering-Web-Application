@@ -1,2 +1,2 @@
-# Software-Engineering-Web-Application
-Contains all of my codes that I have written during this course
+**Software-Engineering-Web-Application**
+Contains all of my beginner level coding of HTML, CSS, JS, and PHP.
